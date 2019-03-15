@@ -1,0 +1,10 @@
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .flex1 {
+      width: 60%
+  }
+  .flex2 {
+      width: 40%
+  }

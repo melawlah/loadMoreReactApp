@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display+SC');
+@import url('https://fonts.googleapis.com/css?family=Sorts+Mill+Goudy');
+.text {
+    text-align: center;
+}
+
+.bimg {
+    margin-top: -100px;
+    width: 100%;
+    height: 550px;
+
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .font1 {
+    font-family: 'Playfair Display SC', serif;
+    color: black;
+    font-size: 55px;
+    font-weight: bold;
+  }
+  .font2 {
+    font-family: 'Sorts Mill Goudy', serif;
+    font-size: 25px;
+    color: black;
+    
+  }

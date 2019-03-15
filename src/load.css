@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Sorts+Mill+Goudy|Suranna');
+.list {
+    margin-left: 150px;
+    text-align: justify;
+}
+.list2 {
+    margin-left: 300px;
+    text-align: justify;
+}
+.head {
+    margin: 40px;
+    margin-left: 50px;
+    
+}
+.container {
+    border: 2px solid rgb(27, 23, 23);
+}
+.blabla {
+    font-family: 'Suranna', serif;
+    text-indent: 15px;
+   
+}
+.shh {
+    font-size: 18px;
+}

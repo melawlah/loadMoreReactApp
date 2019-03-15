@@ -1,0 +1,6 @@
+ .reg{
+    text-align: justify;
+    margin: 20px;
+    border: 2px inset rgb(142, 206, 25);
+    padding: 30px;
+}

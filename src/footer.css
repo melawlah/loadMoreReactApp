@@ -1,0 +1,31 @@
+.bla {
+    background-color: #474a51;
+    color: white;
+}
+.flex-container {
+    display: flex;
+}
+.flex1 {
+    width: 60%
+}
+.flex2 {
+    width: 40%
+}
+/* #icon{
+    height: 20px;
+    width: 20px;
+    background-color:rgb(216, 224, 231);
+    border-radius: 50%;
+    color:  rgb(78, 101, 121);
+    text-align: center;
+    margin: 5px;
+} */
+#icon{ 
+    margin: 2px;
+    height: 18px;
+    width: 17px;
+}
+
+.dir {
+    margin: 40px;
+}
